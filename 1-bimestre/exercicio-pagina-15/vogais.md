@@ -5,6 +5,7 @@
 * Autor: Rafael Dantas de Oliveira
 * Descrição:  Ler um caractere. Verificar se o caractere lido é uma vogal. Exibir o
 caractere lido com a informação se é ou não uma vogal.
+
 programa
 {
 	
