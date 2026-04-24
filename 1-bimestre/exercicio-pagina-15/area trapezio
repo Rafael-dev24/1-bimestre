@@ -2,7 +2,7 @@
 * Arquivo: triangulo.por
 * Instituição: EtecVAV - Vasco Antonio Venchiarutti
 * Data: 18/03/2026
-* Autor: João vitor alves e carlos eduardo ferraguti
+* Autor: rafael dantas de oliveira
 * Descrição: Ler a base menor, a base maior e a altura. Calcular e mostrar a área de um trapézio: (base menor + base maior) + altura / 2. 
 * 
 *
