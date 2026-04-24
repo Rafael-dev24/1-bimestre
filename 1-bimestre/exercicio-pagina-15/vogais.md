@@ -2,7 +2,7 @@
 * Arquivo: triangulo.por
 * Instituição: EtecVAV - Vasco Antonio Venchiarutti
 * Data: 18/03/2026
-* Autor: João vitor alves e carlos eduardo ferraguti
+* Autor: Rafael Dantas de Oliveira
 * Descrição:  Ler um caractere. Verificar se o caractere lido é uma vogal. Exibir o
 caractere lido com a informação se é ou não uma vogal.
 programa
