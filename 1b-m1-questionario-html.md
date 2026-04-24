@@ -19,10 +19,10 @@ Por que o HTTPS é importante
 
 O HTTPS é essencial porque:
 
-🔒 Protege dados sensíveis (senhas, cartões, etc.)
-🛡️ Evita que terceiros interceptem informações
-✅ Garante autenticidade do site (evita sites falsos)
-📈 Melhora a confiança do usuário
+ Protege dados sensíveis (senhas, cartões, etc.)
+ Evita que terceiros interceptem informações
+ Garante autenticidade do site (evita sites falsos)
+ Melhora a confiança do usuário
 
 Exemplo:
 Sem HTTPS, alguém poderia “espionar” sua senha em um Wi-Fi público.
@@ -39,7 +39,7 @@ Solicita a página ao servidor
 Interpreta o código (HTML, CSS, JavaScript)
 Exibe o site para o usuário
 
-👉 Exemplo: quando você digita um endereço, o navegador “pede” a página.
+ Exemplo: quando você digita um endereço, o navegador “pede” a página.
 
 Papel do servidor web
 
@@ -49,7 +49,7 @@ Armazena os arquivos do site
 Recebe requisições do navegador
 Envia as respostas (páginas, imagens, etc.)
 
-👉 Exemplo: é como um “estoque” de páginas prontas para serem entregues.
+ Exemplo: é como um “estoque” de páginas prontas para serem entregues.
 
 Como ocorre a comunicação
 O usuário digita um endereço (ex: https://empresa.com)
@@ -58,7 +58,7 @@ O servidor recebe e processa o pedido
 O servidor responde com os arquivos do site
 O navegador renderiza (mostra) a página
 
-👉 Exemplo simples:
+ Exemplo simples:
 
 Navegador = cliente pedindo comida
 Servidor = restaurante entregando o pedido
